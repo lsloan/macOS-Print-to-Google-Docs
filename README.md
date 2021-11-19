@@ -1,4 +1,4 @@
-# Print to Google Docs
+# macOS Print to Google Docs
 
 This is a Print Plugin for macOS that takes the printed file and uploads it to Google Docs. The file is shown in Google Docs after it is uploaded.
 This means you can upload anything to Google Docs from every Print dialog in macOS.
