@@ -49,7 +49,7 @@ The workflow is now available in the PDF menu when you print anything. From anyw
 
 ## Known Issues
 
-I tested this on Mac OS X 10.6.7. The scripts in the workflows are written to use GoogleCL from `/usr/local/bin/google`. If that path changes, you might want to manually adjust the scripts.
+The original author tested this on Mac OS X 10.6.7 in 2012. The scripts in the workflows are written to use GoogleCL from `/usr/local/bin/google`. If that path changes, you might want to manually adjust the scripts.
 
 ## Acknowledgements
 
