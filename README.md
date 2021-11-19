@@ -1,7 +1,7 @@
 # Print to Google Docs
 
-This is a Print Plugin for OS X that takes the printed file and uploads it to Google Docs. The file is shown in Google Docs after it is uploaded.
-This means you can upload anything to Google Docs from every Print dialog in OS X.
+This is a Print Plugin for macOS that takes the printed file and uploads it to Google Docs. The file is shown in Google Docs after it is uploaded.
+This means you can upload anything to Google Docs from every Print dialog in macOS.
 
 ### Install gdata-python
 
@@ -29,7 +29,6 @@ With the contents from this file from the GoogleCL repo (click the "raw" link):
 
 > [http://code.google.com/p/googlecl/source/browse/trunk/src/googlecl/docs/client.py?r=589][5]
 
-
 ### Authorize GoogleCL
 
 The Google Command line tools allow you to access Google services over the command line. To do that, you have to first authorize your computer to access Google.
@@ -50,7 +49,7 @@ The workflow is now available in the PDF menu when you print anything. From anyw
 
 ## Known Issues
 
-I tested this on OS X 10.6.7. The scripts in the workflows are written to use GoogleCL from `/usr/local/bin/google`. If that path changes, you might want to manually adjust the scripts.
+I tested this on Mac OS X 10.6.7. The scripts in the workflows are written to use GoogleCL from `/usr/local/bin/google`. If that path changes, you might want to manually adjust the scripts.
 
 ## Acknowledgements
 
